@@ -23,6 +23,3 @@ An Online Examination System built as a mini project for the DBMS course. This s
 - **Server:** XAMPP / LAMP
 
 ---
-
-## 📁 Project Structure
-
